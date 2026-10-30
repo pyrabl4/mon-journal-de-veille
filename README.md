@@ -2,6 +2,14 @@
 
 # Mon journal de veille
 
+## 06/11/AAAA — Titre court du sujet
+
+- **Source** : [titre de la page](adresse) — site ou auteur (en anglais si possible)
+- **Ce que j'ai appris** : deux ou trois phrases, avec vos mots.
+- **Pourquoi c'est utile pour un développeur web** : une phrase.
+- **Ce que je vais faire ou vérifier** : une action concrète (réglage, habitude, lecture).
+
+
 ## 30/10/2026 — Les mots de passe
 
 - **Source** : [Recommandations relatives à l’authentification multifacteur et aux mots de passe](https://messervices.cyber.gouv.fr/guides/recommandations-relatives-lauthentification-multifacteur-et-aux-mots-de-passe) — gouv.fr
