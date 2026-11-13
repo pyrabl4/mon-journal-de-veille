@@ -2,10 +2,18 @@
 
 # Mon journal de veille
 
-[google](https://www.google.com/?hl=fr)
-[google2](https://www.google.com/?hl=fr)
-[google3](https://www.google.com/?hl=fr)
+## 13/11/2026 — Référence (compatibilité)
 
+- **Source** : [Référence (compatibilité). badges de base](https://developer.mozilla.org/en-US/docs/Glossary/Baseline/Compatibility) — MDN
+
+- **Ce que j'ai appris** : Les fonctionnalités listées comme largement disponibles bénéficient d'une prise en charge constante dans chacun des navigateurs de base depuis au moins 2,5 ans.
+
+Les fonctionnalités listées comme nouvellement disponibles fonctionnent au moins dans la dernière version stable de chacun des navigateurs de base, mais peuvent ne pas fonctionner avec les navigateurs et appareils plus anciens.
+
+
+- **Pourquoi c'est utile pour un développeur web** : Pour la compatibilité avec les navigateurs
+
+- **Ce que je vais faire ou vérifier** : verifier la compatibilité avec les navigateurs
 
 
 ## 30/10/2026 — Les mots de passe
