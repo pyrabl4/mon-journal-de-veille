@@ -2,6 +2,17 @@
 
 # Mon journal de veille
 
+## 20/11/2026 — Spécifier JavaScript.
+
+- **Source** : [Spécifier JavaScript.](https://tc39.es/) — TC39
+
+- **Ce que j'ai appris** : Le TC39 d'Ecma International est un groupe de développeurs JavaScript, d'implémenteurs, d'universitaires et plus encore, qui collaborent avec la communauté pour maintenir et faire évoluer la définition de JavaScript.
+
+
+- **Pourquoi c'est utile pour un développeur web** : pour maintenir et faire évoluer la définition de JavaScript.
+
+- **Ce que je vais faire ou vérifier** : 
+
 ## 13/11/2026 — Référence (compatibilité)
 
 - **Source** : [Référence (compatibilité). badges de base](https://developer.mozilla.org/en-US/docs/Glossary/Baseline/Compatibility) — MDN
